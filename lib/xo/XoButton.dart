@@ -9,7 +9,7 @@ class XoButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return Expanded(
         child: Container(
-            margin: const EdgeInsets.all(4),
+            margin: const EdgeInsets.all(8),
             child: ElevatedButton(
                 onPressed: () {
                   onPressed(index);
