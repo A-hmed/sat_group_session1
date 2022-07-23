@@ -21,7 +21,7 @@ class SplashScreen extends StatelessWidget {
                 player1 = text;
               },
               decoration: const InputDecoration(
-                hintText: "Please write player1 "
+                hintText: "Please write player 1 "
               ),
             ),
           ),
@@ -32,7 +32,7 @@ class SplashScreen extends StatelessWidget {
                 player2 = text;
               },
               decoration: const InputDecoration(
-                  hintText: "Please write player2 "
+                  hintText: "Please write player 2 "
               ),
             ),
           ),
